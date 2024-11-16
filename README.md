@@ -15,4 +15,4 @@ The challenges are based on the [roadmap.sh](https://roadmap.sh/) project.
 
 ### Front-End Development
 
--   Single Page CV Application
+-   [Single Page CV Application](https://roadmap.sh/projects/single-page-cv)
